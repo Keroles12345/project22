@@ -1,8 +1,51 @@
-# React + Vite
+# E-Commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based e-commerce application demonstrating authentication, product browsing, categories, product details, cart management, and protected routes.
 
-Currently, two official plugins are available:
+## Features
+- User registration and login
+- Protected routes
+- Product browsing and categories
+- Product details
+- Shopping cart
+- API integration
+- React Query server-state management
+- Form validation
+- Toast notifications
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React 18
+- JavaScript
+- React Router
+- Axios
+- TanStack React Query
+- Formik & Yup
+- Tailwind CSS
+- Swiper
+- React Slick
+- Framer Motion
+- Vite
+
+## Getting Started
+
+```bash
+git clone https://github.com/Keroles12345/project22.git
+cd project22
+npm install
+npm run dev
+```
+
+Production build:
+
+```bash
+npm run build
+```
+
+## Live Demo
+https://project22-beta.vercel.app
+
+## Author
+**Keroles Malak Ateto**
+
+- Portfolio: https://sitesbykeroles.com/
+- LinkedIn: https://www.linkedin.com/in/keroles-malak
